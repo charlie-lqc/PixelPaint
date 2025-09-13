@@ -1471,7 +1471,7 @@ function getBrushOffsets(r:number){
       <header className="header">
         <div className="header-inner">
           <div className="logoWrap">
-            <img src="/logo.png" alt="PixelPaint Logo" className="logoImg" />
+            <img src={`${process.env.PUBLIC_URL}/logo.png`} alt="PixelPaint Logo" className="logoImg" />
           </div>
           <div className="row">
             <div className="row" style={{ gap: 6 }}>
