@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PixelPaint/static/css/main.e6c13ad2.css",
+    "main.js": "/PixelPaint/static/js/main.29e79d98.js",
+    "static/js/453.3839787b.chunk.js": "/PixelPaint/static/js/453.3839787b.chunk.js",
+    "index.html": "/PixelPaint/index.html",
+    "main.e6c13ad2.css.map": "/PixelPaint/static/css/main.e6c13ad2.css.map",
+    "main.29e79d98.js.map": "/PixelPaint/static/js/main.29e79d98.js.map",
+    "453.3839787b.chunk.js.map": "/PixelPaint/static/js/453.3839787b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.29e79d98.js"
+  ]
+}
