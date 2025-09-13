@@ -1,4 +1,5 @@
 import React, { useCallback, useEffect, useMemo, useRef, useState, useLayoutEffect } from "react";
+import logo from "./assets/logo.png";
 
 /**
  * Pixel Paint Game — Storage V2 (robust, snapshot/progress split) + Fullscreen HUD + i18n + PNG export + Bomb tool
@@ -1471,7 +1472,9 @@ function getBrushOffsets(r:number){
       <header className="header">
         <div className="header-inner">
           <div className="logoWrap">
-            <img src={`${process.env.PUBLIC_URL}/logo.png`} alt="PixelPaint Logo" className="logoImg" />
+
+            <img src={logo} alt="PixelPaint Logo" className="logoImg" />
+
           </div>
           <div className="row">
             <div className="row" style={{ gap: 6 }}>
