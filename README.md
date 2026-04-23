@@ -1,2 +1,2 @@
 Check it out: 
-https://github.com/charlie-lqc/PixelPaint
+https://charlie-lqc.github.io/PixelPaint/
